@@ -1,0 +1,11 @@
+{
+    "name": "Cluster1",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Cluster1",
+        "namespacePreimageConfigs": [],
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
